@@ -33,3 +33,7 @@ Via Thunder Client:
 5. Click on 'Send' to make the request.
 
 Happy coding! 🙂
+
+## Project
+
+This project is a Full Stack application using Node.js, Express.js and MongoDB.
